@@ -35,7 +35,8 @@ gestion_estudiantes.exe
 ```
 
 ## Capturas de pantalla
-*(Agrega aquí capturas del programa funcionando)*
+<img width="627" height="698" alt="image" src="https://github.com/user-attachments/assets/654ca189-998a-40ec-8632-a4f394ca97b7" />
+
 
 ## Autor
 Carlos Martinez  
